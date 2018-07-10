@@ -7,7 +7,7 @@ Account creation with values called inside pages
 ## You can see a current Demo of the project Here: http://danielcmorris.com/music-streaming-project 
 
 
-# Steps
+# Sections
 
 ## Register Page:
 Registration page that can swap between creating a new account or logging into an existing account. Checks are in place for duplicate account names/emails and an md5 encryption of passwords.
