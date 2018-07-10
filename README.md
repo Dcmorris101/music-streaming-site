@@ -8,7 +8,6 @@ Account creation with values called inside pages
 
 
 # Steps
-The exercise is split into 8 main sections.
 
 ## Register Page:
 Registration page that can swap between creating a new account or logging into an existing account. Checks are in place for duplicate account names/emails and an md5 encryption of passwords.
