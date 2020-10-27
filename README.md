@@ -4,8 +4,6 @@ A music streaming website custom built from the ground up with HTML, CSS, PHP, J
 
 Account creation with values called inside pages
 
-## You can see a current Demo of the project Here: http://danielcmorris.com/music-streaming-project 
-
 
 # Sections
 
